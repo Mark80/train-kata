@@ -1,0 +1,2 @@
+# train-kata
+kata
